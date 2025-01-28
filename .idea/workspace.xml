@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59ef19a4-5b57-4faf-bba3-ba9b1a9fd491" name="Changes" comment="exercicios de 1 a 10">
-      <change afterPath="$PROJECT_DIR$/EX-011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX-012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX-014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX-015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex-013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX-017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX-018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX-019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX-020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex-016.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,14 +67,20 @@
     "Python.EX-012.executor": "Run",
     "Python.EX-014.executor": "Run",
     "Python.EX-015.executor": "Run",
+    "Python.EX-017.executor": "Run",
+    "Python.EX-018.executor": "Run",
+    "Python.EX-019.executor": "Run",
+    "Python.EX-020.executor": "Run",
     "Python.Ex-013.executor": "Run",
+    "Python.Ex-016.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.EX-015">
-    <configuration name="EX-011" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.EX-020">
+    <configuration name="EX-017" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cursoemvideo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,7 +93,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EX-011.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EX-017.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="EX-012" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="EX-018" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cursoemvideo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,7 +115,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EX-012.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EX-018.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="EX-014" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="EX-019" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cursoemvideo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,7 +137,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EX-014.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EX-019.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="EX-015" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="EX-020" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cursoemvideo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,7 +159,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EX-015.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EX-020.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex-013" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex-016" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cursoemvideo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -175,7 +181,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex-013.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex-016.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.EX-015" />
-        <item itemvalue="Python.EX-014" />
-        <item itemvalue="Python.Ex-013" />
-        <item itemvalue="Python.EX-012" />
-        <item itemvalue="Python.EX-011" />
+        <item itemvalue="Python.EX-020" />
+        <item itemvalue="Python.EX-019" />
+        <item itemvalue="Python.EX-018" />
+        <item itemvalue="Python.EX-017" />
+        <item itemvalue="Python.Ex-016" />
       </list>
     </recent_temporary>
   </component>
