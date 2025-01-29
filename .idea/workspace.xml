@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59ef19a4-5b57-4faf-bba3-ba9b1a9fd491" name="Changes" comment="exercicios de 15 a 20">
-      <change afterPath="$PROJECT_DIR$/EX-021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX-022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX-023.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX-024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EX-025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/espresso.mp3" afterDir="false" />
+    <list default="true" id="59ef19a4-5b57-4faf-bba3-ba9b1a9fd491" name="Changes" comment="exercicios de 20 a 25">
+      <change afterPath="$PROJECT_DIR$/EX-026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX-027.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX-028.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX-029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX-030.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +75,12 @@
     "Python.EX-022.executor": "Run",
     "Python.EX-023.executor": "Run",
     "Python.EX-024.executor": "Run",
+    "Python.EX-025.executor": "Run",
+    "Python.EX-026.executor": "Run",
+    "Python.EX-027.executor": "Run",
+    "Python.EX-028.executor": "Run",
+    "Python.EX-029.executor": "Run",
+    "Python.EX-030.executor": "Run",
     "Python.Ex-013.executor": "Run",
     "Python.Ex-016.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -90,8 +95,8 @@
       <recent name="C:\Users\Dalia\PycharmProjects\cursoemvideo" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.EX-025">
-    <configuration name="EX-021" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.EX-030">
+    <configuration name="EX-026" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cursoemvideo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,7 +109,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EX-021.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EX-026.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="EX-022" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="EX-027" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cursoemvideo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,7 +131,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EX-022.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EX-027.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="EX-023" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="EX-028" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cursoemvideo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,7 +153,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EX-023.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EX-028.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,7 +162,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="EX-024" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="EX-029" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cursoemvideo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,7 +175,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EX-024.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EX-029.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,7 +184,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="EX-025" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="EX-030" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cursoemvideo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -192,7 +197,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EX-025.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EX-030.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.EX-025" />
-        <item itemvalue="Python.EX-024" />
-        <item itemvalue="Python.EX-023" />
-        <item itemvalue="Python.EX-022" />
-        <item itemvalue="Python.EX-021" />
+        <item itemvalue="Python.EX-030" />
+        <item itemvalue="Python.EX-029" />
+        <item itemvalue="Python.EX-028" />
+        <item itemvalue="Python.EX-027" />
+        <item itemvalue="Python.EX-026" />
       </list>
     </recent_temporary>
   </component>
@@ -243,14 +248,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738027954147</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="exercicios de 20 a 25">
+      <option name="closed" value="true" />
+      <created>1738115025947</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738115025947</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="exercicios de 1 a 10" />
     <MESSAGE value="exercicios de 15 a 20" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercicios de 15 a 20" />
+    <MESSAGE value="exercicios de 20 a 25" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercicios de 20 a 25" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
